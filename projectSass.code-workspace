@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Основы HTML и CSS/sem_maket9/img"
+		},
+		{
+			"path": "../../Основы HTML и CSS/sem_maket9/Lato"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projectSass"
+	}
+}
